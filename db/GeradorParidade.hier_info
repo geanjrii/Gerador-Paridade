@@ -1,0 +1,12 @@
+|GeradorParidade
+a[0] => WideXnor0.IN0
+a[1] => WideXnor0.IN1
+a[2] => WideXnor0.IN2
+a[3] => WideXnor0.IN3
+a[4] => WideXnor0.IN4
+a[5] => WideXnor0.IN5
+a[6] => WideXnor0.IN6
+a[7] => WideXnor0.IN7
+p <= WideXnor0.DB_MAX_OUTPUT_PORT_TYPE
+
+
